@@ -1,5 +1,5 @@
 # Uma
- #include<stdio.h>
+ #include<stdio.h> //Header file
  int main()
  {
   int a,b;
